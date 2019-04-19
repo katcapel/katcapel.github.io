@@ -1,0 +1,48 @@
+
+body {
+  font-family : 'Merriweather', serif;
+  background-color: #eeeeee;
+}
+
+h1 {
+  font-family : 'Merriweather', serif;
+  font-weight : bold;
+}
+
+p {
+  font-weight: bold;
+  font-family : 'Merriweather', serif;
+  font-size : 16px;
+  color: black;
+  background-color: transparent;
+}
+
+b {
+  font-weight: bold;
+  color: black;
+  background-color: transparent;
+}
+
+a:visited {
+  font-weight : bold;
+  text-decoration : none;
+  background-color : transparent;
+}
+
+a:link {
+  font-weight : bold;
+  text-decoration : none;
+}
+
+a:hover {
+  color : #000000;
+  font-style : italic;
+  font-weight : bold;
+  background-color : #ffff30;
+}
+
+a:active {
+  color : #000000;
+  font-weight: bold;
+  background-color : transparent;
+}
