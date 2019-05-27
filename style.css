@@ -23,7 +23,6 @@ p {
     color: black;
     background-color: transparent;
     margin: 0 0 0 0;
-    width: 800px;
 }
 
 b {
@@ -36,6 +35,10 @@ b {
     text-decoration: none;
     font-weight: bold;
     font-style: normal;
+}
+
+.paraContainer {
+    max-width: 800px;
 }
 
 a {
