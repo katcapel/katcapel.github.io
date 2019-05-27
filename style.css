@@ -1,48 +1,62 @@
 
 body {
-  font-family : 'Merriweather', serif;
-  background-color: #eeeeee;
+    font-family : 'Arial', sans-serif;
+    background-color: #ffffff;
 }
 
 h1 {
-  font-family : 'Merriweather', serif;
-  font-weight : bold;
+    font-family : 'Arial', sans-serif;
+}
+
+h2 {
+    font-family : 'Arial', sans-serif;
+    font-size: 14pt;
+    color: blue;
+    font-style: italic;
+    font-weight : normal;
+    text-decoration: underline;
 }
 
 p {
-  font-weight: bold;
-  font-family : 'Merriweather', serif;
-  font-size : 16px;
-  color: black;
-  background-color: transparent;
+    font-family : 'Arial', serif;
+    font-size : 14pt;
+    color: black;
+    background-color: transparent;
+    margin: 0 0 0 0;
+    width: 800px;
 }
 
 b {
-  font-weight: bold;
-  color: black;
-  background-color: transparent;
+    font-weight: bold;
+    color: black;
+    background-color: transparent;
+}
+
+.home {
+    text-decoration: none;
+    font-weight: bold;
+    font-style: normal;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+    font-weight : normal;
+    font-style: italic;
 }
 
 a:visited {
-  font-weight : bold;
-  text-decoration : none;
-  background-color : transparent;
 }
 
 a:link {
-  font-weight : bold;
-  text-decoration : none;
 }
 
 a:hover {
-  color : #000000;
-  font-style : italic;
-  font-weight : bold;
-  background-color : #ffff30;
+    color : #000000;
+    font-style : italic;
+    font-weight : bold;
+    background-color : #ff0000;
 }
 
 a:active {
-  color : #000000;
-  font-weight: bold;
-  background-color : transparent;
 }
