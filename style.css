@@ -10,7 +10,7 @@ h1 {
 
 h2 {
     font-family : 'Arial', sans-serif;
-    font-size: 14pt;
+    font-size : 4vmin;
     color: blue;
     font-style: italic;
     font-weight : normal;
@@ -19,7 +19,7 @@ h2 {
 
 p {
     font-family : 'Arial', serif;
-    font-size : 14pt;
+    font-size : 3.5vmin;
     color: black;
     background-color: transparent;
     margin: 0 0 0 0;
@@ -63,3 +63,13 @@ a:hover {
 
 a:active {
 }
+
+.container {
+    height: 25%;
+}
+
+.container img {
+    max-height:100%;
+    max-width: 100%;
+}
+
