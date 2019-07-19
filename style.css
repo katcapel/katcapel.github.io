@@ -6,11 +6,12 @@ body {
 
 h1 {
     font-family : 'Arial', sans-serif;
+    font-size : 16pt;
 }
 
 h2 {
     font-family : 'Arial', sans-serif;
-    font-size : 20pt;
+    font-size : 15pt;
     color: blue;
     font-style: italic;
     font-weight : normal;
@@ -19,7 +20,7 @@ h2 {
 
 p {
     font-family : 'Arial', serif;
-    font-size : 16pt;
+    font-size : 12pt;
     color: black;
     background-color: transparent;
     margin: 0 0 0 0;
